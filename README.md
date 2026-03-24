@@ -1,7 +1,7 @@
 <!--
  * @Author: X
 -->
-# Awsome-peptide-design-paper
+# Awesome-peptide-paper
 
 This repository is a curated collection of research papers (with DOIs) related to peptide design.
 
