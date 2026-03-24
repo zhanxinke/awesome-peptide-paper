@@ -29,4 +29,4 @@ The list will be continuously updated...
 
 | ID | Title | Journal | Year | DOI |
 |----|------|---------|------|-----|
-| 1 | **Peptide-based drug design using generative AI** | *Chem. Commun.* | 2016 | [10.1039/D5CC04998A](https://doi.org/10.1039/D5CC04998A) |
+| 1 | **Peptide-based drug design using generative AI** 利用生成式人工智能进行基于肽的药物设计| *Chem. Commun.* | 2016 | [10.1039/D5CC04998A](https://doi.org/10.1039/D5CC04998A) |
