@@ -11,9 +11,9 @@ The list will be continuously updated...
 
 # Contents
 
-- Review Paper
-   - [Peptide-based drug design](#r-pdd)
-   - [Antimicrobial peptide](#r-amp)
+- [Review Paper](rp)
+   - [Peptide-based drug design](#rp-pdd)
+   - [Antimicrobial peptide](#rp-amp)
 
 ---
 <!-- - [Papers](#papers)
@@ -22,11 +22,11 @@ The list will be continuously updated...
     - [Antimicrobial peptide](#r-amp)
 - [Library](#library) -->
 
-<a name="Review Paper" />
+<a name="rp" />
 
 # Review Paper
 
-<a name="Peptide-based drug design" />
+<a name="rp-pdd" />
 
 ## Peptide-based drug design
 
@@ -35,7 +35,7 @@ The list will be continuously updated...
 | 1 | **Peptide-based drug design using generative AI** (*利用生成式人工智能进行基于肽的药物设计*) | *Chem. Commun.* | 2026 | [https://doi.org/10.1039/D5CC04998A](https://doi.org/10.1039/D5CC04998A) |
 | 2 | **Deep generative models for therapeutic peptide discovery: a comprehensive review** (*用于治疗性肽发现的深度生成模型：全面回顾*) | *ACM Com. Sur.* | 2025 | [https://dl.acm.org/doi/10.1145/3714455](https://dl.acm.org/doi/10.1145/3714455) |
 
-<a name="Antimicrobial peptide" />
+<a name="rp-amp" />
 
 ## Antimicrobial peptide
 
