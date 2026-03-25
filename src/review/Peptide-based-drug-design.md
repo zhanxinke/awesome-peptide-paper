@@ -1,9 +1,6 @@
 <!--
  * @Author: X
 -->
-<!--
- * @Author: X
--->
 # Review Paper
 
 ## 🌲Peptide-based drug design
