@@ -12,9 +12,8 @@ The list will be continuously updated...
 # Contents
 
 - [Review Paper](#rp)
-   - [Peptide-based drug design](./src/review/Peptide-based-drug-design.md)
-   - [Peptide-based drug design](#rp-pdd)
-   - [Antimicrobial peptide](#rp-amp)
+   - [Peptide-based drug design](./src/Review/Peptide-based-drug-design.md)
+   - [Antimicrobial peptide](./src/Review/Antimicrobial-peptide.md)
 
 ---
 <!-- - [Papers](#papers)
