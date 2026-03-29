@@ -15,15 +15,27 @@ The list will be continuously updated...
    - [Peptide-based drug design](src/Review/Peptide-based-drug-design.md)
    - [Antimicrobial peptide](src/Review/Antimicrobial-peptide.md)
 - [Regular Paper](#rep)
+   - [Generative peptide design](src/Regular/Generative_peptide_design.md)
    - [Antimicrobial peptide](src/Regular/Antimicrobial-peptide.md)
+
 ---
+
+For detailed content, please navigate through the sections listed in Contents above. Each category contains organized papers and corresponding resources for further exploration.
+
+---
+
+## 🌟🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=Calcium-Ion/new-api%2Czhanxinke/awesome-peptide-paper&type=date&legend=top-left)](https://www.star-history.com/?repos=Calcium-Ion%2Fnew-api%2Czhanxinke%2Fawesome-peptide-paper&type=date&legend=top-left)
+
+
 <!-- - [Papers](#papers)
   - [Review Paper]
     - [Peptide-based drug design](#r-pdd)
     - [Antimicrobial peptide](#r-amp)
 - [Library](#library) -->
 
-<a name="rp" />
+<!-- <a name="rp" />
 
 ## 📖 Review Paper
 
@@ -32,7 +44,7 @@ The list will be continuously updated...
 ### 🌲Peptide-based drug design
 
 | ID | Title | Journal | Tech | Year | DOI |
-|----|:-----|---------|------|-----|-----|
+|----|-----|---------|------|-----|-----|
 | 1 | **Peptide-based drug design using generative AI** (*利用生成式人工智能进行基于肽的药物设计*) | *Chem. Commun.* | - | 2026 | [https://doi.org/10.1039/D5CC04998A](https://doi.org/10.1039/D5CC04998A) |
 | 2 | **Deep generative models for therapeutic peptide discovery: a comprehensive review** (*用于治疗性肽发现的深度生成模型：全面回顾*) | *ACM Com. Sur.* | - | 2025 | [https://dl.acm.org/doi/10.1145/3714455](https://dl.acm.org/doi/10.1145/3714455) |
 
@@ -41,7 +53,8 @@ The list will be continuously updated...
 ### 🦠Antimicrobial peptide
 
 | ID | Title | Journal | Tech | Year | DOI |
-|----|:-----|---------|------|-----|-----|
+|----|-----|---------|------|-----|-----|
 | 1 | **Artificial intelligence using a latent diffusion model enables the generation of diverse and potent antimicrobial peptides.** (*利用潜在扩散模型的人工智能能够生成多种高效抗菌肽*) | *Sci. Adv.* | - | 2025 | [https://doi.org/10.1126/sciadv.adp7171](https://doi.org/10.1126/sciadv.adp7171) |
-| 2 | **Machine learning for antimicrobial peptide identification and design** (*用于抗菌肽鉴定和设计的机器学习*) | *Nat. Rev. Bio.* | - | 2024 | [https://doi.org/10.1038/s44222-024-00152-x](https://doi.org/10.1038/s44222-024-00152-x) |
+| 2 | **Machine learning for antimicrobial peptide identification and design** (*用于抗菌肽鉴定和设计的机器学习*) | *Nat. Rev. Bio.* | - | 2024 | [https://doi.org/10.1038/s44222-024-00152-x](https://doi.org/10.1038/s44222-024-00152-x) | -->
+
 
