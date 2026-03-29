@@ -1,6 +1,4 @@
-<!--
- * @Author: X
--->
+
 # Review Paper
 
 ## 🦠🦠 Antimicrobial peptide
